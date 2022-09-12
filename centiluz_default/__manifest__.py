@@ -69,6 +69,8 @@
     'git-repos': [
         'https://github.com/filoquin/cl-centiluz.git',
 
+        'git@github.com:filoquin/theme_centiluz.git',
+        
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
         'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
