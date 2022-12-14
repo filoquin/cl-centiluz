@@ -69,7 +69,7 @@
     'git-repos': [
         'https://github.com/filoquin/cl-centiluz.git',
 
-        'https://filoquin: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@github.com/filoquin/theme_centiluz',
+        'https://filoquin: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@github.com/filoquin/theme_centiluz',
         
         # OCA
         'https://github.com/OCA/server-tools oca-server-tools',
